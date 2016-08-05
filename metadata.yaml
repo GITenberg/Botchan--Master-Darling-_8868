@@ -1,0 +1,53 @@
+_repo: Botchan--Master-Darling-_8868
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mori, Yasotaro
+    alias: Morri, Yasotaro
+    birthdate: 1882
+    gutenberg_agent_id: '2906'
+    url: http://www.gutenberg.org/2009/agents/2906
+creator:
+  author:
+    agent_name: Natsume, Soseki
+    aliases:
+    - 夏目 漱石
+    - Natsume, Kinnosuke
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '2905'
+    url: http://www.gutenberg.org/2009/agents/2905
+    wikipedia: http://en.wikipedia.org/wiki/Natsume_Soseki
+description: "Botchan (坊っちゃん) is a novel written by Natsume Sōseki in 1906. It is\
+  \ one of the most popular novels in Japan, read by many Japanese during their school\
+  \ years. The central theme of the story is morality, but the narrator serves up\
+  \ this theme with generous sides of humor and sarcasm.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8868'
+  wikidata: Q1190533
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japan -- Fiction'
+- GITenberg
+title: Botchan (Master Darling)
+url: http://www.gutenberg.org/ebooks/8868
+wikipedia:
+- https://fr.wikipedia.org/wiki/Botchan
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%AA%D8%B4%D9%86
+- https://zh.wikipedia.org/wiki/%E5%B0%91%E7%88%BA
+- https://ja.wikipedia.org/wiki/%E5%9D%8A%E3%81%A4%E3%81%A1%E3%82%84%E3%82%93
+- https://es.wikipedia.org/wiki/Botchan
+- https://ja.wikisource.org/wiki/%E5%9D%8A%E3%81%A4%E3%81%A1%E3%82%84%E3%82%93
+- https://vi.wikipedia.org/wiki/Botchan
+- https://en.wikisource.org/wiki/Botchan
+- https://en.wikipedia.org/wiki/Botchan
+- https://it.wikipedia.org/wiki/Il_signorino_(romanzo)
+- https://ca.wikipedia.org/wiki/Botxan
+- https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A0%A8%EB%8B%98
+- https://sv.wikipedia.org/wiki/Botchan
