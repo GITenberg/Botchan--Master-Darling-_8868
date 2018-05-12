@@ -1,5 +1,5 @@
 _repo: Botchan--Master-Darling-_8868
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mori, Yasotaro
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1882
     gutenberg_agent_id: '2906'
     url: http://www.gutenberg.org/2009/agents/2906
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Natsume, Soseki
@@ -22,6 +25,8 @@ description: "Botchan (坊っちゃん) is a novel written by Natsume Sōseki in
   \ one of the most popular novels in Japan, read by many Japanese during their school\
   \ years. The central theme of the story is morality, but the narrator serves up\
   \ this theme with generous sides of humor and sarcasm.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8868#Botchan--Master-Darling-
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
